@@ -1,57 +1,57 @@
-# LINQ Examples and Enhancements in .NET 9
+# LINQ Örnekleri ve .NET 9'daki Geliştirmeler
 
-## 📚 Description
+## 📚 Açıklama
 
-Welcome to the **LINQ Examples and Enhancements in .NET 9** project! This repository showcases a series of **LINQ (Language Integrated Query)** examples, demonstrating its powerful features in C#. It includes a range of queries — from basic to advanced — to help developers understand and master LINQ operations.
+**LINQ Örnekleri ve .NET 9'daki Geliştirmeler** projesine hoş geldiniz! Bu depo, **LINQ (Language Integrated Query)** özelliklerini içeren çeşitli örnekler sunar ve C#'ta LINQ'un güçlü yönlerini gösterir. Depoda temel sorgulardan gelişmiş işlemlere kadar geniş bir yelpazede örnekler yer alır, böylece geliştiriciler LINQ işlemlerini anlamada ve ustalaşmada daha kolay bir yol bulabilirler.
 
-This project highlights the following:
+Bu proje şu konulara odaklanır:
 
-- **Basic LINQ operations** (e.g., `Select`, `Where`, `OrderBy`)
-- **Advanced LINQ techniques** like `GroupBy`, `Join`, and `SelectMany`
-- **New LINQ methods** introduced in **.NET 9**, including `Index`, `CountBy`, and `AggregateBy`
+- **Temel LINQ işlemleri** (ör. `Select`, `Where`, `OrderBy`)
+- **Gelişmiş LINQ teknikleri** (ör. `GroupBy`, `Join`, `SelectMany`)
+- **.NET 9'da tanıtılan yeni LINQ metodları**, örneğin `Index`, `CountBy` ve `AggregateBy`
 
-Whether you are just starting with LINQ or looking to explore new features in .NET 9, this repository has something for everyone!
+İster LINQ ile yeni tanışmış olun, ister .NET 9'daki yeni özellikleri keşfetmek istiyor olun, bu depo herkes için bir şeyler sunuyor!
 
-## 🗂️ Project Structure
+## 🗂️ Proje Yapısı
 
-The project is divided into three main categories to cater to different skill levels:
+Proje, farklı beceri seviyelerine hitap etmek için üç ana kategoriye ayrılmıştır:
 
-### 1. **Easy LINQ Queries**
-   - Simple queries to get started with LINQ operations.
-   - Ideal for beginners.
+### 1. **Kolay LINQ Sorguları**
+   - LINQ işlemlerine başlamak için basit sorgular.
+   - Yeni başlayanlar için ideal.
 
-### 2. **Medium LINQ Queries**
-   - Advanced LINQ operations including grouping, sorting, and combining multiple collections.
-   - Suitable for developers with some experience.
+### 2. **Orta Seviye LINQ Sorguları**
+   - Gruplama, sıralama ve birden fazla koleksiyonu birleştirme gibi gelişmiş işlemler.
+   - Biraz deneyimli geliştiriciler için uygun.
 
-### 3. **Advanced LINQ Queries**
-   - Complex examples leveraging new features like `Index`, `CountBy`, and `AggregateBy`.
-   - Includes scenarios that require working with nested objects and real-world data structures.
+### 3. **İleri Düzey LINQ Sorguları**
+   - `Index`, `CountBy` ve `AggregateBy` gibi yeni özellikleri kullanan karmaşık örnekler.
+   - İç içe geçmiş nesneler ve gerçek dünya veri yapılarıyla çalışma senaryoları içerir.
 
-## 🚀 Key Features
+## 🚀 Temel Özellikler
 
-- **Common LINQ operations**: Examples like `Select`, `Where`, `OrderBy`, etc.
-- **Advanced techniques**: Learn how to use `GroupBy`, `Join`, `SelectMany`, and more.
-- **New features in .NET 9**:
-    - `Index`: Access elements along with their index.
-    - `CountBy`: Count elements based on a custom condition.
-    - `AggregateBy`: Aggregate values in complex groupings.
-- **Real-world scenarios**: Demonstrations with practical examples and complex data structures.
+- **Yaygın LINQ işlemleri**: `Select`, `Where`, `OrderBy` gibi örnekler.  
+- **Gelişmiş teknikler**: `GroupBy`, `Join`, `SelectMany` gibi yöntemleri öğrenin.  
+- **.NET 9'daki yeni özellikler**:
+  - `Index`: Elemanlara indeksleriyle birlikte erişim.
+  - `CountBy`: Belirli bir koşula göre eleman sayımı.
+  - `AggregateBy`: Karmaşık gruplamalarda değerleri birleştirme.  
+- **Gerçek dünya senaryoları**: Pratik örnekler ve karmaşık veri yapılarıyla gösterimler.
 
-## 💻 Technologies
+## 💻 Teknolojiler
 
-- **C#**
-- **.NET 9**
-- **LINQ (Language Integrated Query)**
+- **C#**  
+- **.NET 9**  
+- **LINQ (Language Integrated Query)**  
 
-## 🎯 Goal
+## 🎯 Amaç
 
-This repository aims to be a **comprehensive learning tool** for mastering LINQ in C#, both for beginners and seasoned developers. Explore both traditional and new approaches to querying and manipulating collections effectively.
+Bu depo, C#'ta LINQ'u öğrenmek ve ustalaşmak isteyenler için **kapsamlı bir öğrenim aracı** olmayı hedefler. Koleksiyonları sorgulama ve manipüle etme konusunda hem geleneksel hem de yeni yaklaşımları keşfedin.
 
-## 📜 License
+## 📜 Lisans
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Bu proje MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için `LICENSE` dosyasını inceleyebilirsiniz.
 
-## 🙋‍♂️ Contributing
+## 🙋‍♂️ Katkıda Bulunun
 
-Feel free to fork the repository, submit issues, or create pull requests with improvements and additional examples.
+Depoyu fork ederek, sorunlar bildirerek veya eklemeler ve geliştirmeler için pull request açarak katkıda bulunabilirsiniz.
